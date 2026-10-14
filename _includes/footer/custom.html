@@ -1,6 +1,18 @@
 <!-- start custom footer snippets -->
 
-<!-- Support for MathJax -->
-<script id="MathJax-script" defer src="https://cdn.jsdelivr.net/npm/mathjax@4.0.0/tex-mml-chtml.js"></script>
 
 <!-- end custom footer snippets -->
+
+<!-- Make figures in pages and posts tappable: opens the full-size image in a new tab -->
+<script>
+  document.querySelectorAll('.page__content img').forEach(function (img) {
+    if (img.closest('a')) return;
+    var a = document.createElement('a');
+    a.href = img.getAttribute('src');
+    a.target = '_blank';
+    a.rel = 'noopener';
+    a.title = 'Open full size';
+    img.parentNode.insertBefore(a, img);
+    a.appendChild(img);
+  });
+</script>

@@ -60,3 +60,14 @@
 .engagement-grid img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 4px; }
 .engagement-grid figcaption { font-size: 0.75em; margin-top: 0.5em; }
 @media (max-width: 600px) { .engagement-grid { grid-template-columns: 1fr; } }
+
+/* Phones: one-tap Contact button (LinkedIn) instead of the Follow dropdown */
+.author__contact { margin-bottom: 0; white-space: nowrap; }
+@include breakpoint($large) { .author__contact { display: none; } }
+
+/* Captions in the site's normal typeface */
+figcaption { font-family: inherit; }
+
+/* Tappable figures */
+.page__content a > img { cursor: zoom-in; }
+figcaption a { color: var(--global-link-color); }
