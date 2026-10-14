@@ -71,3 +71,19 @@ figcaption { font-family: inherit; }
 /* Tappable figures */
 .page__content a > img { cursor: zoom-in; }
 figcaption a { color: var(--global-link-color); }
+
+/* Post date moved below the article */
+.page__date--bottom { margin-top: 2em; }
+
+/* "#fromtheblog" pill above the recent posts on Home */
+.recent-posts__label .tag { font-size: 1em; margin: 0; }
+a.tag { text-decoration: none; }
+a.tag:hover { background: color-mix(in srgb, var(--global-link-color) 22%, transparent); }
+
+/* Grouped photo thumbnails in posts (click opens full size) */
+.photo-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.6em; max-width: 640px; margin: 1.5em auto; }
+.photo-grid figure { margin: 0; }
+.photo-grid a { display: block; }
+.photo-grid img { display: block; margin: 0; width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 4px; }
+.photo-grid figcaption { font-size: 0.6em; line-height: 1.3; margin: 0.2em 0 0; padding: 0; text-align: left; }
+@media (max-width: 600px) { .photo-grid { grid-template-columns: repeat(2, 1fr); max-width: 300px; } }
