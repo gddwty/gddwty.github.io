@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I study Indonesian politics, and have done so for well over a decade. I also prepare reports for international NGOs and brief private clients on the country's national and local politics, mostly off the record. Much of what I know comes from years of conversations with the people who practise it.
+I write about and teach Indonesian politics. I also prepare reports and brief clients in private on the country's national and local politics. Much of what I know comes from conversations with the people who practise politics and those who watch it closely.
 
-Occasionally I write for *The Jakarta Post*, and I teach at a graduate school in Jakarta.
-
-I received my PhD in Political Science from Northwestern University in 2021.
+I received my BA from Universitas Gadjah Mada (UGM) and my PhD in Political Science from Northwestern University, Chicago.
 
 <div class="recent-posts">
 <p class="recent-posts__label">Recent blog posts</p>
