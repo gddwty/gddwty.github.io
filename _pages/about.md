@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I write about and teach Indonesian politics. I also prepare reports and brief clients in private on the country's national and local politics. Much of what I know comes from conversations with people who have skin in the game and from careful work with statistical data.
+I write about and teach Indonesian politics. I also prepare reports and brief clients in private on the country's political issues, at both the national and subnational levels. Much of what I know comes from conversations with people who have skin in the game and from careful work with statistical data.
 
-I received my BA from Universitas Gadjah Mada (UGM) and my PhD in Political Science from Northwestern University, Chicago.
+I received my BA from Universitas Gadjah Mada and my PhD in Political Science from Northwestern University, Chicago.
 
 <div class="recent-posts">
 <p class="recent-posts__label">Recent blog posts</p>
