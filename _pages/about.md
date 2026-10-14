@@ -13,7 +13,6 @@ I write about and teach Indonesian politics. I also prepare reports and brief cl
 I received my BA from Universitas Gadjah Mada and my PhD in Political Science from Northwestern University, Chicago.
 
 <div class="recent-posts">
-<p class="recent-posts__label">Recent blog posts</p>
 {% for post in site.posts limit:2 %}
 <p class="recent-posts__item"><a href="{{ post.url | relative_url }}" target="_blank" rel="noopener">{{ post.title }}</a> <span class="recent-posts__date">· {{ post.date | date: "%-d %B %Y" }}</span></p>
 {% endfor %}

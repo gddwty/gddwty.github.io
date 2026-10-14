@@ -3,6 +3,9 @@ permalink: /blog/
 title: "Blog"
 hide_title: true
 author_profile: true
+redirect_from:
+  - /blog/sorted-or-mixed/
+  - /blog/old-cleavages-new-maps/
 ---
 
 {% for post in site.posts %}
