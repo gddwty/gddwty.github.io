@@ -1,0 +1,48 @@
+---
+---
+
+/*
+ * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ */
+
+@import
+    "vendor/breakpoint/breakpoint",
+
+    "themes",
+    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+
+    "include/mixins",
+    "vendor/susy/susy",
+
+    "layout/reset",
+    "layout/base",
+
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
+
+    "layout/forms",
+
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar"
+;
+/* Site tweaks */
+.page__title { font-size: 1.35em; }              /* blog post titles (theme default 1.563em) */
+.archive__item-title { font-size: 1.15em; }       /* post titles on the Blog page (theme default 1.25em) */
+
+/* Recent blog posts on the home page: deliberately quiet */
+.recent-posts { margin-top: 3em; padding-top: 0.8em; border-top: 1px solid var(--global-border-color); }
+.recent-posts__label { font-size: max(10px, 0.56em); color: var(--global-text-color-light); margin-bottom: 0.4em; }
+.recent-posts__item { font-size: max(10px, 0.56em); margin: 0 0 0.25em; }
+.recent-posts__item a { text-decoration: underline; }
+.recent-posts__date { color: var(--global-text-color-light); }

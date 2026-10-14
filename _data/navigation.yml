@@ -1,0 +1,14 @@
+# Order of the links in the site header.
+
+main:
+  - title: "Commentary"
+    url: /commentary/
+
+  - title: "Engagement"
+    url: /engagement/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Blog"
+    url: /blog/
