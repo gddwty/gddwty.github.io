@@ -1,37 +1,37 @@
 ---
-title: "Sorted or Mixed? Nationalist and Islamic Parties in Jakarta and Central Java"
+title: "Mapping the Parties: Jakarta and Central Java's North Coast"
 permalink: /blog/sorted-or-mixed/
 redirect_from:
   - /blog/old-cleavages-new-maps/
-excerpt: "Do supporters of nationalist and Islamic parties live apart? In Jakarta, largely yes. On Central Java's north coast, much less so."
+excerpt: "Where the nationalist and Islamic parties win, neighborhood by neighborhood in Jakarta and village by village on Central Java's north coast."
 read_time: true
 share: false
 related: false
 comments: false
 ---
 
-I often play around with the datasets at my disposal. This time I was curious about how the parties map out in Jakarta and on Central Java's north coast.
+A good friend of mine ran for the DPR in 2024 in Jakarta's second electoral district (*Dapil* Jakarta II). He didn't make it. That got me wondering where Jakarta's strongest parties draw their votes, and whether the capital is a bastion of nationalist or of Islamic parties. I then looked at Central Java's north coast, to see whether things are any different there.
 
 <p class="post-tags"><span class="tag">#data</span> <span class="tag">#visualization</span></p>
 
 ---
 
-Indonesia's party system has long been read along one axis: nationalist parties, PDI-P foremost among them, on one side, and Islamic parties such as PKS, PKB, PPP and PAN on the other. A question asked less often is geographic. Do the two camps' voters live apart, in separate neighborhoods and villages, or side by side? Maps drawn at the lowest level of the vote give a first look. Two places give two different answers.
-
-## Jakarta: sorted
+## Jakarta
 
 ![Two Jakartas: PDI-P's north-west, PKS's south and east](/images/blog/old-cleavages-new-maps/jakarta-two-jakartas.jpg)
 
-**In Jakarta, the answer is close to yes.** In 2019, PDI-P led in nearly every neighborhood (*kelurahan*) of the north and west. PKS, the strongest Islamic party in the capital, led across a band of the south and the centre-east. The boundary between the two is plainly visible on the map.
+**In 2019,** PDI-P led in nearly every neighborhood (*kelurahan*) of north and west Jakarta. PKS, the strongest Islamic party in the capital, led in many neighborhoods across the south and the centre-east, where it alternated with PDI-P.
 
-**By 2024 the balance had tilted toward PKS.** It came first in two of Jakarta's three electoral districts: the centre-south (22.5% against PDI-P's 13.9%) and the east (21.9% against 16.2%), a district where PDI-P had led most neighborhoods in 2019. PDI-P held only the north-west (16.7% against 13.9%).
+**In 2024,** PKS came first in two of Jakarta's three electoral districts: Jakarta II, the centre-south (22.5% against PDI-P's 13.9%), and Jakarta I, the east (21.9% against 16.2%). PDI-P came first in Jakarta III, the north-west (16.7% against 13.9%).
 
-**Sorted, but not sealed.** The lower maps show each party's share rather than the winner. PDI-P still drew 15 to 25 percent across much of the PKS south, and PKS kept a foothold in the PDI-P north-west. The camps cluster; they do not wall themselves off.
+**The lower maps show each party's share of the 2019 vote.** PDI-P's share is highest in the north and west, at 25 percent and above, and mostly between 15 and 25 percent in the south. PKS's share is highest in the south and centre, above 20 percent in places, and lowest in the north-west.
 
-## Central Java's north coast: mixed
+## Central Java's north coast
 
 ![Leading party in each village of Kudus, Jepara and Demak, 2019](/images/blog/old-cleavages-new-maps/jateng-ii-villages.jpg)
 
-**Kudus, Jepara and Demak sit on the *pesisir*,** home of the Demak mosque and the shrines of the *wali*, and long a heartland of traditionalist Islam. Here we might expect the Islamic parties to dominate, and to dominate everywhere.
+**Kudus, Jepara and Demak make up Central Java's second electoral district (Jawa Tengah II).** The map shows the party that led in each village in the 2019 DPR vote.
 
-**Neither is the case.** PKB, the party of the Nahdlatul Ulama community, led a solid block of villages in western Demak, with smaller pockets in Jepara. That block is the one place where the map looks sorted. Elsewhere, it is a patchwork: villages led by PDI-P sit next to villages led by PKB, NasDem, Golkar and Gerindra, often side by side. If Jakarta is sorted, the north coast is mixed.
+**PDI-P led in many villages across all three regencies,** especially in northern Jepara and in Kudus. PKB, the party of the Nahdlatul Ulama community, led a large block of villages in western Demak and smaller groups in Jepara. NasDem, Golkar and Gerindra each led clusters of their own: NasDem in southern Jepara and parts of Kudus and Demak, Golkar in parts of Jepara and Kudus, and Gerindra in southern Demak.
+
+**So the region is not exactly a bastion of Islamic parties,** despite its *pesisir* outlook and its *santri* heritage. The north coast is home to the Demak mosque and the shrines of the *wali*, yet in 2019 nationalist parties led in more of its villages than Islamic ones did.
