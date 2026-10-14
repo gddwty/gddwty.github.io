@@ -10,6 +10,8 @@ comments: false
 
 One of my students asked me the other day about the odds for non-PDI-P parties in Bali's legislative elections. I hadn't given the question much thought until then. Bali has long been a bastion of the Banteng, as PDI-P is known after its bull emblem, alongside Central Java, though the party's standing slipped slightly in the 2024 legislative election. So I played around with some data at my disposal and came up with a few visualizations. The result is below.
 
+<p class="post-tags"><span class="tag">#data</span> <span class="tag">#visualization</span> <span class="tag">#Bali</span></p>
+
 ---
 
 ## Where PDI-P's rivals thrive

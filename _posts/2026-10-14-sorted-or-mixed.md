@@ -10,6 +10,12 @@ related: false
 comments: false
 ---
 
+I often play around with the datasets at my disposal. This time I was curious about how the parties map out in Jakarta and on Central Java's north coast.
+
+<p class="post-tags"><span class="tag">#data</span> <span class="tag">#visualization</span></p>
+
+---
+
 Indonesia's party system has long been read along one axis: nationalist parties, PDI-P foremost among them, on one side, and Islamic parties such as PKS, PKB, PPP and PAN on the other. A question asked less often is geographic. Do the two camps' voters live apart, in separate neighborhoods and villages, or side by side? Maps drawn at the lowest level of the vote give a first look. Two places give two different answers.
 
 ## Jakarta: sorted
@@ -29,9 +35,3 @@ Indonesia's party system has long been read along one axis: nationalist parties,
 **Kudus, Jepara and Demak sit on the *pesisir*,** home of the Demak mosque and the shrines of the *wali*, and long a heartland of traditionalist Islam. Here we might expect the Islamic parties to dominate, and to dominate everywhere.
 
 **Neither is the case.** PKB, the party of the Nahdlatul Ulama community, led a solid block of villages in western Demak, with smaller pockets in Jepara. That block is the one place where the map looks sorted. Elsewhere, it is a patchwork: villages led by PDI-P sit next to villages led by PKB, NasDem, Golkar and Gerindra, often side by side. If Jakarta is sorted, the north coast is mixed.
-
-## What the contrast suggests
-
-Two tentative readings. **The first is about scale and setting.** Jakarta's neighborhoods are dense and socially sorted, so the party camps can cluster. Village politics on the north coast turns more on local figures and networks, which cut across the old divide. **The second is about the camps themselves.** On the north coast, piety does not settle the vote; the traditionalist Muslim community spreads its support across several parties, nationalist ones included.
-
-**A caution on the maps.** Leading-party maps exaggerate separation: a village where PDI-P wins 30 percent and PKB 28 percent is painted entirely red. A proper test would measure how evenly each camp's vote is spread across neighborhoods and villages, a natural next step.

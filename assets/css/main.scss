@@ -46,3 +46,17 @@
 .recent-posts__item { font-size: max(10px, 0.56em); margin: 0 0 0.25em; }
 .recent-posts__item a { text-decoration: underline; }
 .recent-posts__date { color: var(--global-text-color-light); }
+
+/* Hashtag pills in blog posts */
+.post-tags { margin: 0.5em 0 1em; }
+.tag { display: inline-block; font-size: 0.7em; padding: 0.15em 0.65em; margin: 0 0.3em 0.3em 0; border-radius: 1em; color: var(--global-link-color); background: color-mix(in srgb, var(--global-link-color) 12%, transparent); }
+
+/* Blue divider under post preambles */
+.page__content hr { border: 0; border-top: 2px solid var(--global-link-color); opacity: 0.6; margin: 1.5em 0; }
+
+/* Engagement page: photos side by side, stacking on phones */
+.engagement-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5em; align-items: start; }
+.engagement-grid figure { margin: 0; }
+.engagement-grid img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 4px; }
+.engagement-grid figcaption { font-size: 0.75em; margin-top: 0.5em; }
+@media (max-width: 600px) { .engagement-grid { grid-template-columns: 1fr; } }
