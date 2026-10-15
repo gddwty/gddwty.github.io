@@ -118,6 +118,8 @@ a.tag:hover { background: color-mix(in srgb, var(--global-link-color) 22%, trans
 .blog-topics .tag.is-active { color: #fff; background: var(--global-link-color); }
 .blog-list { flex: 1; min-width: 0; }
 .blog-item { margin-bottom: 2em; }
+@include breakpoint($large) { .blog-layout { margin-left: -9.5em; } .blog-topics { flex-basis: 8em; } }
+@include breakpoint($x-large) { .blog-layout { margin-left: -14.5em; } .blog-topics { flex-basis: 11em; } }
 @media (max-width: 600px) {
   .blog-layout { flex-direction: column; gap: 1.2em; }
   .blog-topics { flex: none; position: static; flex-direction: row; flex-wrap: wrap; }
