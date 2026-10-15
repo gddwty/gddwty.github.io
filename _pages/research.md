@@ -2,7 +2,7 @@
 permalink: /research/
 title: "Research"
 hide_title: true
-author_profile: true
+author_profile: false
 ---
 
 ## Articles

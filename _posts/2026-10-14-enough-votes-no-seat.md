@@ -1,6 +1,7 @@
 ---
 title: "Can a Small-Party Newcomer Win in Jakarta II?"
 permalink: /blog/enough-votes-no-seat/
+thumbnail: /images/blog/thumbs/enough-votes-no-seat.jpg
 excerpt: "–enough votes, wrong logo. In Jakarta II, the small parties won one vote in six in 2024, and not a single seat."
 read_time: true
 share: false

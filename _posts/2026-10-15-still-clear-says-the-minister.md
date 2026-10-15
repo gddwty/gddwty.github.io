@@ -1,6 +1,7 @@
 ---
 title: "“Still Clear,” Says the Minister"
 permalink: /blog/still-clear-says-the-minister/
+thumbnail: /images/blog/thumbs/still-clear.jpg
 excerpt: "–on Bali's fuel queues and the numbers behind them. The trouble in Bali is distribution, says the minister. The national numbers deserve a closer look."
 read_time: true
 share: false

@@ -2,6 +2,7 @@
 title: "Where Should a Non-PDI-P Newcomer Campaign in Bali?"
 date: 2026-10-14 12:00:00 +0000
 permalink: /blog/where-should-a-newcomer-campaign-in-bali/
+thumbnail: /images/blog/thumbs/bali-newcomer.jpg
 redirect_from:
   - /blog/on-balis-political-geography/
 excerpt: "–north, east, and inside your own party. Bali's nine DPR seats leave about four chairs outside PDI-P. Where are the votes to win one?"

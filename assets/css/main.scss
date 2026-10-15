@@ -110,3 +110,13 @@ a.tag:hover { background: color-mix(in srgb, var(--global-link-color) 22%, trans
 .post-sources p { margin-bottom: 0.5em; }
 .post-sources ol { margin: 0 0 0.8em 1.2em; padding-left: 0.6em; }
 .post-sources li { margin-bottom: 0.25em; }
+
+/* Blog page: chart/photo thumbnail beside each post */
+.blog-item { display: flex; gap: 1.2em; align-items: flex-start; margin-bottom: 2em; }
+.blog-item__text { flex: 1; min-width: 0; }
+.blog-item__thumb { flex: 0 0 150px; }
+.blog-item__thumb img { display: block; width: 150px; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 4px; border: 1px solid var(--global-border-color); }
+@media (max-width: 600px) { .blog-item__thumb { flex-basis: 96px; } .blog-item__thumb img { width: 96px; } }
+
+/* Keep the highlighted menu item clickable (e.g. "Blog" on a post page returns to the list) */
+.masthead__menu-item.selected a { pointer-events: auto; cursor: pointer; }
