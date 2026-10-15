@@ -104,3 +104,9 @@ a.tag:hover { background: color-mix(in srgb, var(--global-link-color) 22%, trans
 }
 .author__urls a[href*="linkedin.com"] .icon-pad-right { padding-right: 0; }
 @include breakpoint($large) { .author__urls-wrapper a.author__contact { display: none; } }
+
+/* Source list at the end of a post */
+.post-sources { font-size: 0.75em; line-height: 1.45; }
+.post-sources p { margin-bottom: 0.5em; }
+.post-sources ol { margin: 0 0 0.8em 1.2em; padding-left: 0.6em; }
+.post-sources li { margin-bottom: 0.25em; }
