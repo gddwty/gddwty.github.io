@@ -10,9 +10,9 @@ redirect_from:
 
 <div class="bio" markdown="1">
 
-I write about Indonesian politics. I also prepare reports and brief clients on the country's political issues. Much of what I know comes from conversations with my network of sources and from looking at statistical data.
+<h1 class="bio__title">Gde Dwitya <span class="bio__cred">(<em>PhD, Northwestern</em>)</span></h1>
 
-I received my PhD in Political Science from Northwestern University, Chicago.
+I write about Indonesian politics. I also prepare reports and brief clients on the country's political issues. Much of what I know comes from conversations with my network of sources and from looking at statistical data.
 
 If you'd like to connect, I'm on <a class="inline-pill" href="https://www.linkedin.com/in/gde-dwitya-141127286/" target="_blank" rel="noopener"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a>.
 
