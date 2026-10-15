@@ -120,3 +120,19 @@ a.tag:hover { background: color-mix(in srgb, var(--global-link-color) 22%, trans
 
 /* Keep the highlighted menu item clickable (e.g. "Blog" on a post page returns to the list) */
 .masthead__menu-item.selected a { pointer-events: auto; cursor: pointer; }
+
+/* Home: short bio as a compact, flush-left block */
+.bio { max-width: 27.6em; }
+.bio p { margin: 0 0 0.9em; }
+.bio p:last-child { margin-bottom: 0; }
+.recent-posts { max-width: calc(30em * 0.92); }
+.page__content .recent-posts__item { font-size: 0.82em; }
+.page__content .recent-posts__label { font-size: 0.78em; }
+@include breakpoint($large) { .author__urls-wrapper { margin-top: 0.8em; } }
+
+/* Sidebar: photo and LinkedIn only (name already in the top bar) */
+.author__name, .author__content { display: none; }
+
+/* LinkedIn pill inside the Home bio text */
+.page__content a.inline-pill { display: inline-block; padding: 0 0.55em; margin-right: -0.15em; border-radius: 1em; line-height: 1.6; text-decoration: none; white-space: nowrap; color: var(--global-link-color); background: color-mix(in srgb, var(--global-link-color) 12%, transparent); }
+.page__content a.inline-pill:hover { color: var(--global-link-color); background: color-mix(in srgb, var(--global-link-color) 22%, transparent); }
