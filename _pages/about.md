@@ -12,7 +12,7 @@ redirect_from:
 
 I write about Indonesian politics. I also prepare reports and brief clients on the country's political issues. Much of what I know comes from conversations with my network of sources and from looking at statistical data.
 
-I received my BA from Universitas Gadjah Mada and my PhD in Political Science from Northwestern University, Chicago.
+I received my PhD in Political Science from Northwestern University, Chicago.
 
 If you'd like to connect, I'm on <a class="inline-pill" href="https://www.linkedin.com/in/gde-dwitya-141127286/" target="_blank" rel="noopener"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a>.
 
