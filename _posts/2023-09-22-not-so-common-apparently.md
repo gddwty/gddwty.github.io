@@ -1,7 +1,7 @@
 ---
 title: "How Common Is the Commoners' President?"
 permalink: /blog/not-so-common-apparently/
-topics: [Jokowi, essay]
+topics: [presidents, essay]
 excerpt: "–not so common, apparently. If soto is the food of commoners, Soto Triwindu is soto royalty. What Jokowi's favorite soto in Solo says about the 'man of the people'."
 read_time: true
 share: false

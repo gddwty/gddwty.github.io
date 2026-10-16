@@ -1,7 +1,7 @@
 ---
 title: "Oral History of Yudhoyono's Career"
 permalink: /blog/oral-history-of-yudhoyonos-career/
-topics: [Yudhoyono, bookreview]
+topics: [presidents, bookreview]
 excerpt: "A review of Standing Firm for Indonesia's Democracy, an oral history of Susilo Bambang Yudhoyono's career, from military officer to two-term president."
 read_time: true
 share: false

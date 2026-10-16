@@ -5,6 +5,8 @@ hide_title: true
 author_profile: false
 ---
 
+My other hat is academic. I teach at a graduate school in Jakarta and, from time to time, publish research and book reviews, which you'll find below. I received my PhD in Political Science from Northwestern University.
+
 ## Articles
 
 - "Rethinking the Social Foundations of Environmental Politics: Evidence from Bali, Indonesia" (with Kadek Dwita Apriani). *Politicos: Jurnal Politik dan Pemerintahan*, 2026. [[paper]](https://doi.org/10.22225/politicos.6.1.2026.65-76){:target="_blank" rel="noopener"}

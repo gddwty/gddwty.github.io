@@ -143,5 +143,3 @@ a.tag:hover { background: color-mix(in srgb, var(--global-link-color) 22%, trans
 /* LinkedIn pill inside the Home bio text */
 .page__content a.inline-pill { display: inline-block; padding: 0 0.55em; margin-right: -0.15em; border-radius: 1em; line-height: 1.6; text-decoration: none; white-space: nowrap; color: var(--global-link-color); background: color-mix(in srgb, var(--global-link-color) 12%, transparent); }
 .page__content a.inline-pill:hover { color: var(--global-link-color); background: color-mix(in srgb, var(--global-link-color) 22%, transparent); }
-.bio__title { font-size: 1em; margin: 0 0 0.5em; line-height: 1.5; }
-.bio__cred { font-weight: normal; color: var(--global-text-color); }
