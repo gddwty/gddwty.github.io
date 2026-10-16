@@ -137,8 +137,6 @@ a.tag:hover { background: color-mix(in srgb, var(--global-link-color) 22%, trans
 .page__content .recent-posts__label { font-size: 0.78em; }
 @include breakpoint($large) { .author__urls-wrapper { margin-top: 0.8em; } }
 
-/* Sidebar: photo and LinkedIn only (name already in the top bar) */
-.author__name, .author__content { display: none; }
 
 /* LinkedIn pill inside the Home bio text */
 .page__content a.inline-pill { display: inline-block; padding: 0 0.55em; margin-right: -0.15em; border-radius: 1em; line-height: 1.6; text-decoration: none; white-space: nowrap; color: var(--global-link-color); background: color-mix(in srgb, var(--global-link-color) 12%, transparent); }
