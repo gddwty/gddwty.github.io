@@ -141,3 +141,6 @@ a.tag:hover { background: color-mix(in srgb, var(--global-link-color) 22%, trans
 /* LinkedIn pill inside the Home bio text */
 .page__content a.inline-pill { display: inline-block; padding: 0 0.55em; margin-right: -0.15em; border-radius: 1em; line-height: 1.6; text-decoration: none; white-space: nowrap; color: var(--global-link-color); background: color-mix(in srgb, var(--global-link-color) 12%, transparent); }
 .page__content a.inline-pill:hover { color: var(--global-link-color); background: color-mix(in srgb, var(--global-link-color) 22%, transparent); }
+
+/* Desktop sidebar: centre name and label under the round photo (photo max 175px) */
+@include breakpoint($large) { .author__avatar img { width: 100%; } .author__content { width: 100%; max-width: 175px; padding-left: 0; padding-right: 0; text-align: center; } }
