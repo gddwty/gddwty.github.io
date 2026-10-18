@@ -144,3 +144,6 @@ a.tag:hover { background: color-mix(in srgb, var(--global-link-color) 22%, trans
 
 /* Desktop sidebar: centre name and label under the round photo (photo max 175px) */
 @include breakpoint($large) { .author__avatar img { width: 100%; } .author__content { width: 100%; max-width: 175px; padding-left: 0; padding-right: 0; text-align: center; } }
+
+/* Footnotes in black ink (theme default is light grey) */
+.page__content a.footnote, .footnotes, .page__content a.reversefootnote { color: var(--global-text-color); }
