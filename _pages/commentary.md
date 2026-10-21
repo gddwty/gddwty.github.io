@@ -8,6 +8,7 @@ redirect_from:
   - /commentaries/
 ---
 
+- "The Twilight of the Modernizers: The Fate of Technocrats and Student Activists under Authoritarian New Order Indonesia." *Review of Democracy*, CEU Democracy Institute, October 20, 2026. [[link]](https://revdem.ceu.edu/2026/10/20/twilight-modernizers/){:target="_blank" rel="noopener"}
 - "New Order's Authoritarian Legacies and Indonesia's Democratic Decline: A Reassessment" (with Iqra Anugrah). *Review of Democracy*, CEU Democracy Institute, March 3, 2026. [[link]](https://revdem.ceu.edu/2026/03/03/indonesias-democratic-decline/){:target="_blank" rel="noopener"}
 - "When Washington Denies, Jakarta Commits." *The Jakarta Post*, October 4, 2025. [[link]](https://www.thejakartapost.com/opinion/2025/10/04/when-washington-denies-jakarta-commits){:target="_blank" rel="noopener"}
 - "PSI's Electoral Gambit: Will It Pay Dividends?" *The Jakarta Post*, October 14, 2023. [[link]](https://www.thejakartapost.com/opinion/2023/10/14/psis-electoral-gambit-will-it-pay-dividends){:target="_blank" rel="noopener"}
