@@ -14,7 +14,7 @@ comments: false
 <p class="post-tags"><span class="tag">#democracy</span> <span class="tag">#history</span></p>
 
 
-This year I wrote two essays for the CEU Democracy Institute's *Review of Democracy*. Read apart, they look like two projects. They are one argument, told from opposite ends.
+This year I wrote two essays for the CEU Democracy Institute's *Review of Democracy*. These two essays are outputs of several workshops I organized with my colleague Iqra Anugrah.
 
 The first, written with Iqra Anugrah, came out in March. It is [a reassessment of the New Order's authoritarian legacies](https://revdem.ceu.edu/2026/03/03/indonesias-democratic-decline/){:target="_blank" rel="noopener"}. Indonesia has held competitive elections since 1999, yet over the past decade its democracy has thinned. Courts bend. Civic space shrinks. Oligarchs have more say, and soldiers are back in civilian jobs. Most commentary blames the people in charge, their coalitions and their style, and so starts the clock in 2014. We argued for a longer clock. The New Order left behind institutions, networks of elites and capital, and habits of thought that still shape what democratic politicians can do. Some of that inheritance is an *endowment*, which democrats can put to new use; some of it is a *deficit*, which drags on reform.
 
