@@ -7,6 +7,26 @@ author_profile: false
 
 My other hat is academic. I teach at a graduate school in Jakarta and, from time to time, publish research and book reviews, which you'll find below. I received my PhD in Political Science from Northwestern University.
 
+## Current Research
+
+My current project rethinks New Order Indonesia: how Soeharto's regime was built, how it changed over three decades, and how its legacies shape the future of Indonesia's democracy. It is also the project of turning my dissertation into a book.
+
+With my colleague Iqra Anugrah, I have organized workshops on the theme, and the first outputs have appeared in the CEU Democracy Institute's *Review of Democracy*: [a reassessment of the New Order's authoritarian legacies](https://revdem.ceu.edu/2026/03/03/indonesias-democratic-decline/){:target="_blank" rel="noopener"} (with Iqra Anugrah) and [*The Twilight of the Modernizers*](https://revdem.ceu.edu/2026/10/20/twilight-modernizers/){:target="_blank" rel="noopener"}. I wrote about how the two fit together [on the blog](/blog/what-the-new-order-took-away/).
+
+<div class="poster-grid">
+
+<figure>
+  <a href="/images/research/rethinking-new-order-leiden-2025.jpg" target="_blank" rel="noopener"><img src="/images/research/rethinking-new-order-leiden-2025.jpg" alt="Poster for the workshop Rethinking New Order Indonesia: Origins, Evolution, and Legacies, IIAS Leiden, 21 May 2025"></a>
+  <figcaption><strong>Rethinking New Order Indonesia</strong>, hybrid workshop, IIAS, Leiden, 21 May 2025. Co-organized with Iqra Anugrah; speakers Norman Joshua and Farabi Fakih; discussants Jeffrey Winters and Adriaan Bedner.</figcaption>
+</figure>
+
+<figure>
+  <a href="/images/research/rethinking-new-order-online-2025.jpg" target="_blank" rel="noopener"><img src="/images/research/rethinking-new-order-online-2025.jpg" alt="Poster for the online workshop Rethinking New Order Indonesia, 18 June 2025, with Gde Dwitya Arief Metera as speaker"></a>
+  <figcaption><strong>Rethinking New Order Indonesia</strong>, online workshop, 18 June 2025. Speaker, with discussants Dan Slater and Amalinda Savirani.</figcaption>
+</figure>
+
+</div>
+
 ## Articles
 
 - "Rethinking the Social Foundations of Environmental Politics: Evidence from Bali, Indonesia" (with Kadek Dwita Apriani). *Politicos: Jurnal Politik dan Pemerintahan*, 2026. [[paper]](https://doi.org/10.22225/politicos.6.1.2026.65-76){:target="_blank" rel="noopener"}
