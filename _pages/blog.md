@@ -18,7 +18,8 @@ redirect_from:
   {% endif %}{% endfor %}
 </nav>
 <div class="blog-list">
-{% for post in site.posts %}
+{% assign regular = site.posts | where_exp: "p", "p.list_last != true" %}{% assign last = site.posts | where_exp: "p", "p.list_last == true" %}{% assign ordered = regular | concat: last %}
+{% for post in ordered %}
 <article class="archive__item blog-item" data-topics="{{ post.topics | join: ' ' }}">
   <h2 class="archive__item-title" style="margin-top: 0;"><a href="{{ post.url | relative_url }}" target="_blank" rel="noopener">{{ post.title }}</a></h2>
   <p class="page__meta" style="margin: 0 0 0.5em;">{{ post.date | date: "%-d %B %Y" }}</p>

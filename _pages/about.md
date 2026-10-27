@@ -20,7 +20,7 @@ If you'd like to connect, I'm on <a class="inline-pill" href="https://www.linked
 
 <div class="recent-posts">
 <p class="recent-posts__label"><a class="tag" href="{{ '/blog/' | relative_url }}">#fromtheblog</a></p>
-{% for post in site.posts limit:4 %}
+{% assign home_posts = site.posts | where_exp: "p", "p.list_last != true" %}{% for post in home_posts limit:4 %}
 <p class="recent-posts__item"><a href="{{ post.url | relative_url }}" target="_blank" rel="noopener">{{ post.title }}</a></p>
 {% endfor %}
 </div>

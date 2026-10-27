@@ -8,6 +8,7 @@ read_time: true
 share: false
 related: false
 comments: false
+list_last: true  # keep off the home page and at the bottom of the blog list
 ---
 
 *–the story our grandmother told us.*
