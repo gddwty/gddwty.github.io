@@ -3,7 +3,7 @@ title: "The Elder Brother of the King"
 date: 2026-10-27 20:00:00 +0000
 permalink: /blog/elder-brother-of-the-king/
 topics: [history, Bali]
-excerpt: "–the story our grandmother told us. An anthropologist's account of my clan, the Kubayan of Wangaya Gede, once kings and still priests on Mount Batukaru."
+excerpt: "–the story our grandmother told us. An anthropologist's account of my clan, the Kubayan of Batukaru, once kings and still priests on the mountain."
 read_time: true
 share: false
 related: false

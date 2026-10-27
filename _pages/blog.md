@@ -22,7 +22,7 @@ redirect_from:
 {% for post in ordered %}
 <article class="archive__item blog-item" data-topics="{{ post.topics | join: ' ' }}">
   <h2 class="archive__item-title" style="margin-top: 0;"><a href="{{ post.url | relative_url }}" target="_blank" rel="noopener">{{ post.title }}</a></h2>
-  <p class="page__meta" style="margin: 0 0 0.5em;">{{ post.date | date: "%-d %B %Y" }}</p>
+  {% unless post.list_last %}<p class="page__meta" style="margin: 0 0 0.5em;">{{ post.date | date: "%-d %B %Y" }}</p>{% endunless %}
   {% if post.excerpt %}<p class="archive__item-excerpt">{{ post.excerpt | markdownify | strip_html | truncate: 300 }}</p>{% endif %}
 </article>
 {% endfor %}
