@@ -3,7 +3,7 @@ title: "The Elder Brother of the King"
 date: 2026-10-27 20:00:00 +0000
 permalink: /blog/elder-brother-of-the-king/
 topics: [history, Bali]
-excerpt: "–the story our grandmother told us. An anthropologist's account of my clan, the Kubayan of Batukaru, once kings and still priests on the mountain."
+excerpt: "–highlanders, once warriors, still priests. An anthropologist's account of my clan and the story our grandmother told us."
 read_time: true
 share: false
 related: false
@@ -11,13 +11,13 @@ comments: false
 list_last: true  # keep off the home page and at the bottom of the blog list
 ---
 
-*–the story our grandmother told us.*
+*–highlanders, once warriors, still priests.*
 
 <p class="post-tags"><span class="tag">#history</span> <span class="tag">#Bali</span></p>
 
-It is an odd experience to find your own clan in an anthropology journal. In 2003 the anthropologist Arlette Ottino, then at the University of La Rochelle, published "[Revisiting Kinship in Bali](https://doi.org/10.1080/14442210310001706367){:target="_blank" rel="noopener"}", based on fieldwork on the slopes of Mount Batukaru from 1986 to 2002. Several pages are about the Kubayan of Wangaya Gede (Kabayan, in her spelling). That is our clan.
+It is an odd experience to find your own clan in an anthropology journal. In 2003 the anthropologist Arlette Ottino, then at the University of La Rochelle, published "[Revisiting Kinship in Bali](https://doi.org/10.1080/14442210310001706367){:target="_blank" rel="noopener"}", based on fieldwork on the slopes of Mount Batukaru from 1986 to 2002. Several pages are about the Kubayan of Batukaru. That is our clan.
 
-What struck me was not anything new. It was how familiar it all was. Ottino's account is exactly the story our grandmother told us about who we are as a people. Hearing it again, this time in the dry prose of a kinship study, made it hit closer to home than I expected.
+What struck me was not anything new. It was how familiar it all was. Ottino's account is exactly the story our grandmother told us about who we are as a people. Hearing it again, this time in the academic prose of a kinship study, made it hit closer to home than I expected.
 
 Here is the story as Ottino tells it. In her account, the Kubayan leaders once ruled a small mountain kingdom on the south face of the volcano, and they still serve as high priests of the state temple, Pura Luhur Batukaru. The royal house of Tabanan acknowledges their seniority. The local saying has it that the Kubayan is the elder brother of the king. The leader may sit on the same level as the king and speak to him in the same register of Balinese, as a brother would.
 
@@ -27,15 +27,15 @@ Now the inside. Ottino finds three ranks, each with its own name. Ordinary membe
 
 Her account of the inside fits my own family too. My brothers and I all bear the title Gde, and we descend in the male line from an ancestor who bore the title *mekel*. We no longer use the title *mekel*, perhaps because none of us is a village head any more, and we long ago moved away from the mountain slope.
 
-The most interesting detail, to me, is how you join. Ordinary membership does not require any blood tie to the core line. You belong by asking the core line for the holy water your own rituals need. Ottino calls these members clients and disciples. Kinship here is less a fact of birth than a relationship of ritual dependence.
+The most interesting detail, to me, is holy water. The core-line families make it for the ordinary members of the clan, who need it for their rituals. In most of Bali it works differently. A family takes its holy water from a priestly house, a *griya*, whose high priest (*pedanda*) is its *siwa*. Our core-line families need no *griya* or *pedanda*, because we make our own. Ottino's term for the practice is *masiwa ke garis purusa*: taking the core line itself as one's *siwa*.
 
-This matters because in most of Bali it works the other way. A family takes its holy water from a priestly house, a *griya*, whose high priest is its *siwa*. Ottino's term for our practice is *masiwa ke garis purusa*: taking the core line itself as one's *siwa*. The core line needs no *griya*, because we make our own holy water. Nor do we need a *siwa–sisya* bond, or years of ritual training, to become priests. By birth, we can become priests and officiate ourselves. It was said that my great-grandfather had only to attend a ceremony and take his seat for it to be complete (*puput*), without a single mantra.
+Nor do we need a *siwa–sisya* bond, or years of ritual training, to become priests. By birth, we can become priests and officiate ourselves. It was said that my great-grandfather had only to attend a ceremony and take his seat for it to be complete (*puput*), without a single mantra.
 
 So far this is about ritual status. What keeps it alive, Ottino argues, is power. Under Suharto, members of the core line found their way into the regional government. One was a *bupati* in the mid-1980s, another an assistant *bupati*, and a third worked in the *camat*'s office. My own grandfather was with the Tabanan government in the 1980s too, as *mantri polisi*, the chief of the *satuan polisi pamong praja*.
 
-What Ottino does not mention is that core-line families have also moved beyond Wangaya Gede. My ancestors settled further south, and we trace our ritual line to Pura Tambawaras, one of the sister temples of Batukaru that she lists in her notes. The high priest there is family. I need only mention my great-grandfather, and they know who we are.
+What Ottino does not mention is that core-line families have also moved beyond Wangaya Gede, the clan's home village on the mountain. My ancestors settled further south, and we trace our ritual line to Pura Tambawaras, which she lists in her notes as one of the sister temples of Pura Luhur Batukaru. The high priest there is family. I need only mention my great-grandfather, and they recognize me at once, rare visitor though I am.
 
-Coming from a priestly clan is not all privilege, though. We have temples to look after, and the cost is substantial. That is another thing Ottino does not mention.
+Coming from a priestly clan is not all privilege, though. We have many temples to look after, and the obligation passes down the generations. Ottino notes that the people of Batukaru are remembered for their bravery as guerrillas in the revolution. Our ancestors were warrior highlanders long before that: in pre-colonial times one of them defeated a neighbouring lord, and his temple passed to us. My own family still maintains it.
 
 ---
 
