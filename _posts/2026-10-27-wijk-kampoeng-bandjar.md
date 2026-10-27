@@ -37,6 +37,8 @@ Do the names survive? Many do. Today's Kecamatan Buleleng has [kelurahan](https:
 
 So the map answers a question I had not thought to ask: how did the colonial town sort the people in it? Mostly by vocabulary. And what held the town together, in Grader's eyes, was not the road down the middle but the three temples along it.
 
+*The full key to the map, all twenty-nine labels, is [here](/blog/singaraja-1939-map-key/).*
+
 ---
 
 **Sources**
