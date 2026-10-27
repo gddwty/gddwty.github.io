@@ -29,7 +29,7 @@ With my colleague Iqra Anugrah, I have organized workshops on the theme, and the
 
 ## Articles
 
-- "Rethinking the Social Foundations of Environmental Politics: Evidence from Bali, Indonesia" (with Kadek Dwita Apriani). *Politicos: Jurnal Politik dan Pemerintahan*, 2026. [[paper]](https://doi.org/10.22225/politicos.6.1.2026.65-76){:target="_blank" rel="noopener"}
+- "Rethinking the Social Foundations of Environmental Politics: Evidence from Bali, Indonesia". *Politicos: Jurnal Politik dan Pemerintahan*, 2026. [[paper]](https://doi.org/10.22225/politicos.6.1.2026.65-76){:target="_blank" rel="noopener"}
 - "How Illiberal is Indonesia's Democracy? A Comparative Perspective on Indonesia's State Enforcement of Religion." *Muslim Politics Review*, 2022. [[paper]](https://raw.githubusercontent.com/gddwty/rei/main/paper/Metera%20-%20Muslim%20Politics%20Review.pdf){:target="_blank" rel="noopener"} [[replication material]](https://github.com/gddwty/rei){:target="_blank" rel="noopener"}
 - "Local Politics and the Formation of Subnational Imagined Communities: The Cases of Tabanan Lovers and Buleleng Jengah." *Kawalu: Journal of Local Culture*, 2015. [[paper]](https://raw.githubusercontent.com/gddwty/papers/main/articles/subnational%20imagined%20communities.pdf){:target="_blank" rel="noopener"}
 - "Democratic Transition and the Changing Pattern of State-Religion Relations in Indonesia: A Study of Institutional Change at Subnational Level." *EDGS Working Paper* No. 6, 2013. [[paper]](https://raw.githubusercontent.com/gddwty/papers/main/articles/edgs%20working%20paper.pdf){:target="_blank" rel="noopener"}
