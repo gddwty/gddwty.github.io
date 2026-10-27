@@ -11,7 +11,7 @@ My other hat is academic. I teach at a graduate school in Jakarta and, from time
 
 My current project rethinks New Order Indonesia: how Soeharto's regime was built, how it changed over three decades, and how its legacies shape the future of Indonesia's democracy. It is also the project of turning my dissertation into a book.
 
-With my colleague Iqra Anugrah, I have organized workshops on the theme, and the first outputs have appeared in the CEU Democracy Institute's *Review of Democracy*: [a reassessment of the New Order's authoritarian legacies](https://revdem.ceu.edu/2026/03/03/indonesias-democratic-decline/){:target="_blank" rel="noopener"} (with Iqra Anugrah) and [*The Twilight of the Modernizers*](https://revdem.ceu.edu/2026/10/20/twilight-modernizers/){:target="_blank" rel="noopener"}. I wrote about how the two fit together [on the blog](/blog/what-the-new-order-took-away/).
+With my colleague Iqra Anugrah, I have organized workshops on the theme, and the first outputs have appeared in the CEU Democracy Institute's *Review of Democracy*: [a reassessment of the New Order's authoritarian legacies](https://revdem.ceu.edu/2026/03/03/indonesias-democratic-decline/){:target="_blank" rel="noopener"} and [*The Twilight of the Modernizers*](https://revdem.ceu.edu/2026/10/20/twilight-modernizers/){:target="_blank" rel="noopener"}. I wrote about how the two fit together [on the blog](/blog/what-the-new-order-took-away/).
 
 <div class="poster-grid">
 
