@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="bio" markdown="1">
 
-I write and give talks about Indonesian politics. Much of what I know comes from conversations with my network of sources and from looking at statistical data.
+I write about Indonesian politics and brief policymakers. Much of what I know comes from conversations with my network of sources and from looking at statistical data.
 
 If you'd like to connect, I'm on <a class="inline-pill" href="https://www.linkedin.com/in/gde-dwitya-141127286/" target="_blank" rel="noopener"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a>.
 
